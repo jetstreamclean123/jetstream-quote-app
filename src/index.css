@@ -1,0 +1,11 @@
+/*
+  Tailwind CSS entrypoint.  These directives tell Tailwind to inject
+  its base, component, and utility styles.  When you run the build
+  script Tailwind will automatically strip unused styles based on
+  the `content` configuration in `tailwind.config.js`.
+*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* You can add your own global styles below this comment if needed. */
