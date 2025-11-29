@@ -428,7 +428,7 @@ function App() {
               <section className="mt-6 space-y-6 bg-blue-50 p-6 rounded-lg">
                 <div>
                   <h3 className="font-semibold text-xl mb-2 text-blue-900">Carpet Cleaning</h3>
-                  <p className="text-sm text-slate-600 mb-4">Select carpet area below, then choose a cleaning package. Each room priced up to 300 sq ft.</p>
+                  <p className="text-sm text-slate-600 mb-4">Select carpet area below, then choose a cleaning package. Each room priced up 200 sq ft.</p>
                   <div className="mb-6">
                     <h4 className="font-semibold mb-3 text-blue-900">Select Area Type:</h4>
                     <div className="grid grid-cols-2 md:grid-cols-5 gap-2">
