@@ -60,7 +60,8 @@ const RATES = {
       deluxe: { label: "Factory Reset Deluxe (Walk-In Closet)", price: 60, desc: "Includes everything with the Factory Reset Clean package plus prevacuuming and fiber protection." },
     },
   },
-  tile: { rate: 0.5 },
+  tile: { rate: 0.75 },
+
   upholstery: {
     ottoman: { label: "Ottoman", price: 40 },
     accentChair: { label: "Accent Chair", price: 40 },
